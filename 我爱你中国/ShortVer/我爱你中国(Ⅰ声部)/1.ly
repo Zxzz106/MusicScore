@@ -9,7 +9,7 @@
 		\key c \major
 		\time 4/4
 
-		r2 r8. g,16 g'8. e16 | d8. c16~ c4 r \tuplet 3/2 { g'8 e d~}( | \tuplet 3/2 { d a c)~} c4 r \tuplet 3/2 { g'8 f e} | e8. f16~ f4 r \tuplet 3/2 { a,8 a c} |
+		r2 r8. g16 g'8. e16 | d8. c16~ c4 r \tuplet 3/2 { g'8 e d~}( | \tuplet 3/2 { d a c)~} c4 r \tuplet 3/2 { g'8 f e} | e8. f16~ f4 r \tuplet 3/2 { a,8 a c} |
 		d( e16) d~ d4 r8. g,16 g'8. e16 | d8. c16~ c4 r \tuplet 3/2 { g'8( a) g} | \tuplet 3/2 { e a, c~} c4 r \tuplet 3/2 { g'8 f e} |
 		e8. f16~ f4 r \tuplet 3/2 { g,8 g a} | c( d16) c~ c2 r4 | 
 
@@ -26,7 +26,6 @@
 		fis8. e16~ e4 r4 \tuplet 3/2 { b'8 gis fis~} | \tuplet 3/2 { fis cis e~} e4 r \tuplet 3/2 { b'8 a gis} | gis8. a16~ a4 r4 \tuplet 3/2 { cis,8 cis e} |
 		fis8 gis16 fis~ fis4 r8. b,16 b'8. gis16 | fis8. e16~ e4 r4 \tuplet 3/2 { b'8 cis b} | \tuplet 3/2 { gis cis, e~ } e4 r4 \tuplet 3/2 { b'8 a gis} |
 		gis8. a16~ a4 r8 b \tuplet 3/2 { b gis fis} | e1 | \bar "|."
-
 
 
 	}

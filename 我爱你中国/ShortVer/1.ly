@@ -44,7 +44,7 @@
 
 		r8 e16 fis fis8 fis16 fis e fis e8~ e8. d16 | d16 e d8 d16 e8 d16~ d4 r | r8 a16 b d8 d16 b a b d8 r b16 b |
 		fis'8 e16 e~ e e8.~ e4 r | r8 e16 fis fis8 fis16 fis a8 a4 r16 b, | d8. d16~ d d e fis fis4 r8 d16 a |
-		b8 d16 b a b d8 r8. fis16 fis e e d | d8 e16 d~ d4 d16 e8 b16 b'4 | \bar "||"
+		b8 d16 b a b d8 r8. fis16 fis e e d | d8 e16 d~ d4 r4 r4 | \bar "||"
 
 		\key e \major
 		r8 fis16 gis gis8 gis16 gis fis gis fis8~ fis8. e16 | e fis e8 e16 fis8 e16~ e4 r4 | r8 cis16 e e8 e16 cis b cis e8 r cis16 e |
