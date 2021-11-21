@@ -2,7 +2,7 @@
 \score {
 \new ChoirStaff<<
 	\new Staff \relative c'{
-		\tempo 4 = 100
+		\tempo 4 = 80
 		\time 4/4
 		\key g \major
 		e,4 fis8 g8 a4 b8 a8 | g4 g8 fis8 e2 | e4 fis8 g8 a4 b8 a8 | g4 g8 a8 b4. r8 | e,4 fis8 g8 a4 b8 a8 |

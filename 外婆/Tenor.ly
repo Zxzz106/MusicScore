@@ -13,7 +13,7 @@
 		c8 f g8. f16 f g8.~ g4 | g8 a c a g8. a16 f4 | g8 a g8. d16 c2 |
 
 		r1 | r2 r4 r8 bes'8 | c2 d2 |
-		bes4 c2. |
+		bes4 c2.~ |
 		\time 2/4
 		c4 r4 |
 		\time 4/4
